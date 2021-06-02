@@ -7,17 +7,17 @@ By looking at the historical Top Rated content for a given social media site, we
 
 ## Background
 
-Consumers of online content are capricious; there is no sense of loyalty, the content is often more important than the creator. A tool like this one would allow creators to stay on top of current trends wihtout having to spend the time combing through lists of top trends or watching the content of others. There are many methods that people use in attempts to get more views/likes/retweets/etc. - clickbait titles, keyword stuffing, controvertial language, the list goes on. This is an attempt to automate that process while also (hopefully) resulting in a better experience for content consumers. The more creators who use this, the less duplication of content consumers would see.
+Consumers of online content are capricious; there is no sense of loyalty, the content is often more important than the creator. A tool like this one would allow creators to stay on top of current trends without having to spend the time combing through lists of top trends or watching the content of others. There are many methods that people use in attempts to get more views/likes/retweets/etc. - clickbait titles, keyword stuffing, controversial language, the list goes on. This is an attempt to automate that process while also (hopefully) resulting in a better experience for content consumers. The more creators who use this, the less duplication of content consumers would see.
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+Describe the process of using the solution. In what kind of situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
 
 ## Data sources and AI methods
 This utility would use publically available information in the form of:
-* top content lists
-* news feeds
-* hashtags
+* Top content lists
+* News feeds
+* Hashtags
 
 Some data could be collected via web scraping, but some may require the use of APIs such as the [Twitter API](https://developer.twitter.com/en/docs)
 
